@@ -1,0 +1,11 @@
+
+
+so far we learned the flow of git
+
+to commit
+to push
+
+as well as 
+
+remote -> local
+pull/update
